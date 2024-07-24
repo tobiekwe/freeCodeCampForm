@@ -12,7 +12,7 @@ post.addEventListener("click", function() {
   mail = emailEl.value;
   uage = ageEl.value;
 
-  document.body.innerHTML=
+
   document.getElementById('respo').innerHTML = `
     Name: ${uname},
     Email: ${mail},
